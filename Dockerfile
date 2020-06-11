@@ -1,4 +1,4 @@
-FROM httpd:2.4.29-alpine
+FROM httpd:2.4.43-alpine
 LABEL maintainer="David Lemaitre"
 
 # Update configuration
